@@ -2,9 +2,10 @@
 
 ### 🚀 Sobre mí
 
-soy una persnoa que manejo lo basico de programacion pero en este curso retomare todo lo que me servira para la programacion.
-
----
+Soy Moises Salmeron Flores, docente de informatica por el momento esoy realizando el CursoTransformación Digital para la Docencia Técnica 3.
+A través de mi formación en el bootcamp, he consolidado habilidades técnicas en el manego de las diferentes IA y n8n.
+Me apasiona utilizar la tecnología para resolver problemas complejos y mejorar la experiencia de los usuarios finales.
+Mi objetivo es seguir creciendo en entornos colaborativos donde la innovación y el aprendizaje continuo  sean la prioridad en mi formacion.
 
 ### 🛠️ Tecnologías y herramientas
 
