@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mí
 
-soy una persnoa que maneno la basico de programacion pero en este curso retomare todo lo que me servi para la programacono
+soy una persnoa que manejo la basico de programacion pero en este curso retomare todo lo que me servira para la programacion.
 
 ---
 
@@ -27,6 +27,6 @@ entre otros
 ---
 
 ### 📫 Contacto
-
+* **Correo electrónico:** [moises.moises.salmeron@gmail.com]
 ¡Me encantaría conectar contigo y charlar sobre tecnología o posibles colaboraciones!
 
