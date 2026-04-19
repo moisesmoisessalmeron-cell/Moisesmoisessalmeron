@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mí
 
-soy una persnoa que manejo la basico de programacion pero en este curso retomare todo lo que me servira para la programacion.
+soy una persnoa que manejo lo basico de programacion pero en este curso retomare todo lo que me servira para la programacion.
 
 ---
 
